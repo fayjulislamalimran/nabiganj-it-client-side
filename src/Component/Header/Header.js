@@ -28,7 +28,7 @@ const Header = () => {
   }, [theme]);
 
   return (
-    <div>
+    <div className="header">
       {["sm"].map((expand) => (
         <Navbar key={expand} bg="light" expand={expand}>
           <Container fluid>
