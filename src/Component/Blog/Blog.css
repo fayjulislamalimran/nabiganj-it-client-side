@@ -1,13 +1,12 @@
 .QA {
-  border: 5px solid green;
+  box-shadow: rgba(23, 146, 89, 0.395) 0px 0px 16px;
   width: 60%;
   text-align: left;
-  background-color: gray;
   margin: 2%;
   margin-left: 17%;
   padding: 3%;
   border-radius: 12px;
-  color: white;
+  color: rgb(31, 16, 16);
 }
 
 @media only screen and (max-width: 600px) {
