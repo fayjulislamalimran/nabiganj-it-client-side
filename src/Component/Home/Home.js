@@ -6,7 +6,7 @@ const Home = () => {
     <div className="get-started d-flex  justify-content-center align-items-center">
       <div className="heading-info">
         <h1>Hello Dear Developer</h1>
-        <p>Welcome to Our Nabiganj IT. Learn to code and become a Web Developer in 2022 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!</p>
+        <p>Welcome to Our Knowledgehut. Learn to code and become a Web Developer in 2022 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!</p>
       </div>
       <div className="heading2">
         <img src={heading1} alt="" />

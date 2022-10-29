@@ -8,39 +8,27 @@ const FAQ = () => {
       <Accordion.Item eventKey="0">
         s
         <Accordion.Header>
-          <span className="fs-3 fw-bold ">This Course is For Whom?</span>
+          <span className="fs-3 fw-bold ">What are the main challenges of machine learning?</span>
         </Accordion.Header>
-        <Accordion.Body className="fs-5 fw-bold">Whoever wants to be web developer the course is for them. Another thing is who has interest in the computer science , he or she can do this courses because it will help him/her for their future job sector.</Accordion.Body>
+        <Accordion.Body className="fs-5 fw-bold">Common issues in Machine Learning Inadequate Training Data Poor quality of data. Non-representative training data.Overfitting and Underfitting.Monitoring and maintenance.Getting bad recommendations.Lack of skilled resources.Customer Segmentation.</Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="1">
         <Accordion.Header>
-          <span className="fs-3 fw-bold ">How long the courses are?</span>
+          <span className="fs-3 fw-bold ">What is the limitations of machine learning?</span>
         </Accordion.Header>
-        <Accordion.Body className="fs-5 fw-bold">Actually, we can't say exactly the time duration of course. Because, it varies courses to courses. Like, in some courses maybe in 30 weeks it can be finished or in another course it may take 100 weeks. It depends on the content of the course.</Accordion.Body>
+        <Accordion.Body className="fs-5 fw-bold">What is the limitations of machine learning? Image result Poor transfer learning ability, reusability of modules, and integration. Systems are opaque, making them very hard to debug. Performance cannot be audited or guaranteed at the 'long tail' They encode correlation, not causation or ontological relationships.</Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="2">
         <Accordion.Header>
-          <span className="fs-3 fw-bold ">What is educational background needed for this?</span>
+          <span className="fs-3 fw-bold ">What is the future of machine learning?</span>
         </Accordion.Header>
-        <Accordion.Body className="fs-5 fw-bold">Yes, a student needs to be at least HSC pass to do this courses. Because its intermediate level courses that's why everyone can't understand this course or can't handle the course content.</Accordion.Body>
+        <Accordion.Body className="fs-5 fw-bold">Machine Learning is a subfield of Artificial Intelligence. From predicting the spread of the COVID-19 virus to supporting cutting-edge cancer research, AI & ML can disrupt and transform every single segment of society.</Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="3">
         <Accordion.Header>
-          <span className="fs-3 fw-bold ">Why the courses are not free?</span>
+          <span className="fs-3 fw-bold ">What is Node? How does Node work?</span>
         </Accordion.Header>
-        <Accordion.Body className="fs-5 fw-bold">In our courses there are so many instructor that we already hired. And we need to pay them for their work. And if we don't take money form students how will we able to pay the instructor. We have also our co-workers who are working really hard so that no one face any problems. So, we have to keep all that thing in our mind and take atleast course fee from student.</Accordion.Body>
-      </Accordion.Item>
-      <Accordion.Item eventKey="4">
-        <Accordion.Header>
-          <span className="fs-3 fw-bold ">Are the coruses content final?</span>
-        </Accordion.Header>
-        <Accordion.Body className="fs-5 fw-bold">No, actually it depend on situation. We update our content according to our batch students understanding. We are flexible enough in that.</Accordion.Body>
-      </Accordion.Item>
-      <Accordion.Item eventKey="5">
-        <Accordion.Header>
-          <span className="fs-3 fw-bold ">If you have any other queries then how will you contact us?</span>
-        </Accordion.Header>
-        <Accordion.Body className="fs-5 fw-bold">We have our facebook page, facebook groups , website support system. Anyone can send message to us that message will directly come to us. And we give feedback to the messages.</Accordion.Body>
+        <Accordion.Body className="fs-5 fw-bold">What is this node? Image result for What is Node? How does Node work? Node. js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser.Node allows developers to write JavaScript code that runs directly in a computer process itself instead of in a browser. Node can, therefore, be used to write server-side applications with access to the operating system, file system, and everything else required to build fully-functional applications.</Accordion.Body>
       </Accordion.Item>
     </Accordion>
   );

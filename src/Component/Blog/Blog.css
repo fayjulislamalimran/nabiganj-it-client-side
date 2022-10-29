@@ -7,6 +7,7 @@
   padding: 3%;
   border-radius: 12px;
   color: rgb(31, 16, 16);
+  background-color: beige;
 }
 
 @media only screen and (max-width: 600px) {
